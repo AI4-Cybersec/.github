@@ -35,7 +35,7 @@ For any questions or inquiries, feel free to reach out to us individually:
 
 - **Renato Mignone**: [renato.mignone@studenti.polito.it](mailto:renato.mignone@studenti.polito.it)
 - **Claudia Sanna**: [claudia.sanna@studenti.polito.it](mailto:claudia.sanna@studenti.polito.it)
-- **Chiara Iorio**: 
+- **Chiara Iorio**: [chiara.iorio@studenti.polito.it](mailto:chiara.iorio@studenti.polito.it)
 
 For more information, visit our course page:  
 - **Website**: [AI and Cybersecurity (AIC) 2025/2026](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01GYZUV&p_a_acc=2026&p_header=S&p_lang=IT&multi=N)
