@@ -16,8 +16,8 @@
 | Name              | GitHub                                             | LinkedIn                                             |
 |-------------------|----------------------------------------------------|------------------------------------------------------|
 | Renato Mignone    | [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?logo=github)](https://github.com/RenatoMignone) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/renato-mignone/) |
-| Claudia Sanna     | [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?logo=github)](https://github.com/sannaclaudia)   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/claudiasanna1/) |
-| Chiara Iorio      | [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?logo=github)]([https://github.com/](https://github.com/iochia02)) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/) |
+| Claudia Sanna     | [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?logo=github)](https://github.com/sannaclaudia) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/claudiasanna1/) |
+| Chiara Iorio      | [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?logo=github)](https://github.com/iochia02) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/) |
 
 ## Repositories
 <!-- TODO: update -->
